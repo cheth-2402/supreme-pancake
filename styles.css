@@ -1,0 +1,29 @@
+/* styles.css */
+
+/* Reset default styles */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set background color and font styles */
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+}
+
+/* Center the heading */
+h1 {
+    text-align: center;
+}
+
+/* Style the paragraphs */
+p {
+    margin-bottom: 10px;
+    line-height: 1.5;
+}
+
+/* Add a border to images */
+img {
+    border: 1px solid #ccc;
+}
